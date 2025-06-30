@@ -1,0 +1,9 @@
+Ubuntu / Jupyter Lab
+
+user name: cacicconi
+password: virtu2025
+
+RStudio
+
+user name:
+password: virtu2025
