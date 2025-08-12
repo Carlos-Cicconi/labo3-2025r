@@ -184,3 +184,5 @@ project/target
 .vscode/settings.json
 Data/sell-in.txt
 .GitHub token/GitHub Token.txt
+/src/AutoGluon/AutogluonModels
+/src/Dinamic Time Warping (DTW)/AutogluonModels
